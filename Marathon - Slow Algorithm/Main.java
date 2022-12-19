@@ -14,8 +14,7 @@ public class Main {
 
         ArrayList<String> inputLines = new ArrayList<String>();
 
-        FileReader in = new FileReader("C:\\Users\\Lenovo\\Desktop\\smallCases\\input\\inp1.txt");
-        //FileReader in = new FileReader("C:\\Users\\Lenovo\\Desktop\\largeCases\\largeCases\\input\\stress2.txt");
+        FileReader in = new FileReader(args[0]);
 
 
         BufferedReader br = new BufferedReader(in);
