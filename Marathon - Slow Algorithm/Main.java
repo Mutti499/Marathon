@@ -84,7 +84,7 @@ public class Main {
         graph Graph2 = new graph(flags.length);
         int result2 = Integer.MIN_VALUE;
         for (String flagName : flags) {
-            HashMap<vertex, Integer> distancesToFlag = Graph.dijkstra2(""flagName"");
+            HashMap<vertex, Integer> distancesToFlag = Graph.dijkstra2(flagName);
             LinkedList<edge> neighbours = new LinkedList<edge>();
             if(distancesToFlag == null){ result2 = -1;
             break;}
