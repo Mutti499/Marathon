@@ -1,7 +1,7 @@
 # Marathon 🏃🏃🏃
 
   A philosopher once said, "Some flowers... Some flowers don’t grow in some soils. Such is life." 
-A few days ago, I received such an e-mail from rambo.ocon@boun.edu.tr. He wrote in that email, "As a traveling race man, I could not do anything when it came to coding. I’m not good 
+A few days ago, I received such an e-mail from rambo.ocon@boun.edu.tr. He wrote in that e-mail, "As a traveling race man, I could not do anything when it came to coding. I’m not good 
 enough to code and need help from Mustafa." So he asked me to create this project for me to 
 help him. And now it’s time to help!👨‍💻
 
